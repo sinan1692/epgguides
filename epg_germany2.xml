@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT-EPG" source-info-name="ExampleEPG">
+  <!-- Senderinformationen -->
+  <channel id="ARD">
+    <display-name>ARD</display-name>
+    <icon src="https://www.ard.de/logo.png" />
+  </channel>
+  <channel id="ZDF">
+    <display-name>ZDF</display-name>
+    <icon src="https://www.zdf.de/logo.png" />
+  </channel>
+  <channel id="RTL">
+    <display-name>RTL</display-name>
+    <icon src="https://www.rtl.de/logo.png" />
+  </channel>
+  <channel id="RTLII">
+    <display-name>RTL II</display-name>
+    <icon src="https://www.rtl2.de/logo.png" />
+  </channel>
+  <channel id="RTLNITRO">
+    <display-name>RTL NITRO</display-name>
+    <icon src="https://www.rtlnitro.de/logo.png" />
+  </channel>
+  <channel id="rtlliving.de">
+    <display-name>RTL LIVING</display-name>
+    <icon src="https://www.rtlliving.de/logo.png" />
+  </channel>
+
+  <!-- Programmplan -->
+  <!-- ARD -->
+  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="ARD">
+    <title lang="de">Morgenmagazin</title>
+    <desc lang="de">Nachrichten, Wetter und Berichte aus aller Welt.</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="ARD">
+    <title lang="de">Tagesschau</title>
+    <desc lang="de">Die Nachrichten des Tages.</desc>
+  </programme>
+
+  <!-- ZDF -->
+  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="ZDF">
+    <title lang="de">Frühstart</title>
+    <desc lang="de">Der Morgen beginnt mit Nachrichten und Interviews.</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="ZDF">
+    <title lang="de">Heute</title>
+    <desc lang="de">Nachrichten und Wetter aus Deutschland und der Welt.</desc>
+  </programme>
+
+  <!-- RTL -->
+  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="RTL">
+    <title lang="de">Guten Morgen Deutschland</title>
+    <desc lang="de">Das RTL-Morgenmagazin mit News, Wetter und Klatsch.</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="RTL">
+    <title lang="de">Punkt 7</title>
+    <desc lang="de">Aktuelle Nachrichten und Themen des Tages.</desc>
+  </programme>
+
+  <!-- RTL II -->
+  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="RTLII">
+    <title lang="de">Nightloft</title>
+    <desc lang="de">Entspannte Musikvideos für die frühen Stunden.</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="RTLII">
+    <title lang="de">Der Trödeltrupp</title>
+    <desc lang="de">Experten helfen beim Entrümpeln.</desc>
+  </programme>
+
+  <!-- RTL NITRO -->
+  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="RTLNITRO">
+    <title lang="de">Nitro Auto</title>
+    <desc lang="de">Berichte und Dokus über Autos und Technik.</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="RTLNITRO">
+    <title lang="de">Modern Family</title>
+    <desc lang="de">Comedy-Serie um eine Patchwork-Familie.</desc>
+  </programme>
+
+  <!-- RTL LIVING -->
+  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="RTLLIVING">
+    <title lang="de">Jamie Oliver: 5 Zutaten</title>
+    <desc lang="de">Schnelle und einfache Gerichte mit nur 5 Zutaten.</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="RTLLIVING">
+    <title lang="de">Küchenschlacht</title>
+    <desc lang="de">Kochshow mit spannenden Rezeptideen.</desc>
+  </programme>
+</tv>

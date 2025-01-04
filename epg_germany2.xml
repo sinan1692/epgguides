@@ -18,11 +18,11 @@
     <icon src="https://www.rtl2.de/logo.png" />
   </channel>
   <channel id="RTLNITRO">
-    <display-name>RTL NITRO</display-name>
+    <display-name lang="de">RTL NITRO</display-name>
     <icon src="https://www.rtlnitro.de/logo.png" />
   </channel>
   <channel id="rtlliving.de">
-    <display-name>RTL LIVING</display-name>
+    <display-name lang="de">RTL LIVING</display-name>
     <icon src="https://www.rtlliving.de/logo.png" />
   </channel>
 
@@ -79,7 +79,7 @@
 
   <!-- RTL LIVING -->
   <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="RTLLIVING">
-    <title lang="de">Jamie Oliver: 5 Zutaten</title>
+    <title lang="de">Hallo Test 123</title>
     <desc lang="de">Schnelle und einfache Gerichte mit nur 5 Zutaten.</desc>
   </programme>
   <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="RTLLIVING">

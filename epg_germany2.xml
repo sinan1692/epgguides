@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="ChatGPT-EPG" source-info-name="ExampleEPG">
   <!-- Senderinformationen -->
-  <channel id="Das Erste ʀᴀᴡ">
-    <display-name>Das Erste ʀᴀᴡ </display-name>
+  <channel id="Das Erste">
+    <display-name>Das Erste</display-name>
     <icon src="https://www.ard.de/logo.png" />
   </channel>
   <channel id="ZDF">
@@ -27,18 +27,18 @@
   </channel>
 
   <!-- Programmplan -->
-  <!-- ARD -->
-  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="ARD">
+  <!-- Das Erste -->
+  <programme start="20250105060000 +0100" stop="20250105070000 +0100" channel="ARD">
     <title lang="de">Morgenmagazin</title>
     <desc lang="de">Nachrichten, Wetter und Berichte aus aller Welt.</desc>
   </programme>
-  <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="ARD">
+  <programme start="20250105070000 +0100" stop="20250105080000 +0100" channel="ARD">
     <title lang="de">Tagesschau</title>
     <desc lang="de">Die Nachrichten des Tages.</desc>
   </programme>
 
   <!-- ZDF -->
-  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="ZDF">
+  <programme start="20250105060000 +0100" stop="20250105070000 +0100" channel="ZDF">
     <title lang="de">Frühstart</title>
     <desc lang="de">Der Morgen beginnt mit Nachrichten und Interviews.</desc>
   </programme>
@@ -48,7 +48,7 @@
   </programme>
 
   <!-- RTL -->
-  <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="RTL">
+  <programme start="20250105060000 +0100" stop="20250105070000 +0100" channel="RTL">
     <title lang="de">Guten Morgen Deutschland</title>
     <desc lang="de">Das RTL-Morgenmagazin mit News, Wetter und Klatsch.</desc>
   </programme>

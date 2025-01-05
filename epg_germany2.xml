@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="ChatGPT-EPG" source-info-name="ExampleEPG">
   <!-- Senderinformationen -->
-  <channel id="ARD">
-    <display-name>ARD</display-name>
+  <channel id="Das Erste ʀᴀᴡ">
+    <display-name>Das Erste ʀᴀᴡ </display-name>
     <icon src="https://www.ard.de/logo.png" />
   </channel>
   <channel id="ZDF">
@@ -80,7 +80,7 @@
   <!-- RTL LIVING -->
   <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="RTLLIVING">
     <title lang="de">Hallo Test 123</title>
-    <desc lang="de">Schnelle und einfache Gerichte mit nur 5 Zutaten.</desc>
+    <desc lang="de">Hallo test 123.</desc>
   </programme>
   <programme start="20250104070000 +0100" stop="20250104080000 +0100" channel="RTLLIVING">
     <title lang="de">Küchenschlacht</title>

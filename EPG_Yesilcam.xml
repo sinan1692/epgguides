@@ -13,7 +13,7 @@
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="2">
     <title>Hababam Sınıfı film serisi</title>
-    <desc>7/24 Kesintisiz Hababam Sınıfı. Konu: Özel Çamlıca Lisesi'ne yeni atanan müdür muavini ve tarih öğretmeni olan Mahmut Hoca (Kel Mahmut) kopya çeken, okuldan kaçıp maçlara giden, hocalarla sürekli kafa bulan öğrencilerle dolu okulun 6-A Edebiyat sınıfını, namıdiğer Hababam Sınıfı'nı ilginç ve ağır ceza yöntemleriyle disiplin altına almaya çalışır. Fakat aynı zamanda öğrencilerin haylazlığı dışında ciddi olaylar da yaşanmaktadır .... Tivim IPTV.</desc>
+    <desc>7/24 Kesintisiz Hababam Sınıfı. Konu: Özel Çamlıca Lisesi'ne yeni atanan müdür muavini ve tarih öğretmeni olan Mahmut Hoca (Kel Mahmut) kopya çeken, okuldan kaçıp maçlara giden, hocalarla sürekli kafa bulan öğrencilerle dolu okulun 6-A Edebiyat sınıfını, namıdiğer Hababam Sınıfı'nı ilginç ve ağır ceza yöntemleriyle disiplin altına almaya çalışır. Fakat aynı zamanda öğrencilerin haylazlığı dışında ciddi olaylar da yaşanmaktadır. .... Tivim IPTV.</desc>
   </programme>
 
   <channel id="3">
@@ -81,7 +81,7 @@
   </programme>
 
   <channel id="11">
-    <display-name>24/7 Marvel TV</display-name>
+    <display-name>24/7 Marvel Filme</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="11">
     <title>24/7 Marvel TV</title>
@@ -92,7 +92,7 @@
     <display-name>24/7 Harry Potter</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="12">
-    <title>24/7 Harry Potter</title>
+    <title>24/7 Harry Potter Filme</title>
     <desc>Die Harry-Potter-Filmreihe besteht aus den Verfilmungen der Harry-Potter-Romane der britischen Autorin Joanne K. Rowling durch Warner Bros. ... Tivim IPTV</desc>
   </programme>
 </tv>

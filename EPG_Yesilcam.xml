@@ -3,7 +3,7 @@
   <channel id="1">
     <display-name>Kemal Sunal TV 1</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="1">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="1">
     <title>Kemal Sunal</title>
     <desc>7/24 Kesintisiz Kemal Sunal Filmleri... Tivim IPTV</desc>
   </programme>
@@ -11,23 +11,23 @@
   <channel id="2">
     <display-name>Hababam Sınıfı</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="2">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="2">
     <title>Hababam TV</title>
-    <desc>7/24 Kesintisiz Hababam Sınıfı. Konu: Özel Çamlıca Lisesi'ne yeni atanan müdür muavini ve tarih öğretmeni olan Mahmut Hoca (Kel Mahmut) kopya çeken, okuldan kaçıp maçlara giden, hocalarla sürekli kafa bulan öğrencilerle dolu okulun 6-A Edebiyat sınıfını, namıdiğer Hababam Sınıfı'nı ilginç ve ağır ceza yöntemleriyle disiplin altına almaya çalışır. Fakat aynı zamanda öğrencilerin haylazlığı dışında ciddi olaylar da yaşanmaktadır .... Tivim IPTV.</desc>
+    <desc>7/24 Kesintisiz Hababam Sınıfı. Konu: Özel Çamlıca Lisesi'ne yeni atanan müdür muavini ve tarih öğretmeni olan Mahmut Hoca (Kel Mahmut) kopya çeken, okuldan kaçıp maçlara giden, hocalarla sürekli kafa bulan öğrencilerle dolu okulun 6-A Edebiyat sınıfınıa yaşanmaktadır .... Tivim IPTV.</desc>
   </programme>
 
   <channel id="3">
     <display-name>Tivim Yeşilçam</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="3">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="3">
     <title>Yeşilçam Classics</title>
-    <desc>7/24 Kesintisiz nostaljik Yeşilçam filmleri, Türk sineması, Türkiye sineması veya eski adıyla Yeşilçam, Türkiye'deki film endüstrisine dair faaliyetleri ve sinema kültürünü kapsamaktadır von Tivim IPTV.</desc>
+    <desc>7/24 Kesintisiz nostaljik Yeşilçam filmleri, Türk sineması, Türkiye sineması.. Tivim IPTV.</desc>
   </programme>
 
   <channel id="4">
     <display-name>Exxen TV</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="4">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="4">
     <title>Exxen TV Spor</title>
     <desc>Yayınlar maç saatine 10 dk kala aktif olacaktır. Alternatif maç yayını: TV8 HD, TV8,5 HD... Tivim IPTV</desc>
   </programme>
@@ -35,7 +35,7 @@
   <channel id="5">
     <display-name>tabii Spor</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="5">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="5">
     <title>tabii Spor</title>
     <desc>Yayınlar maç saatine 10 dk kala aktif olacaktır. Alternatif yayın: TRT 1 HD, TRT Spor HD ... Tivim IPTV</desc>
   </programme>
@@ -43,7 +43,7 @@
   <channel id="6">
     <display-name>DAZN Event</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="6">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="6">
     <title>DAZN Event</title>
     <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms ... Tivim IPTV</desc>
   </programme>
@@ -51,7 +51,7 @@
   <channel id="7">
     <display-name>RTL+ Sport Event</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="7">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="7">
     <title>RTL+ Sport Event</title>
     <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms ... Tivim IPTV</desc>
   </programme>
@@ -59,7 +59,7 @@
   <channel id="8">
     <display-name>Amazon Prime C.League</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="8">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="8">
     <title>Amazon Prime C.League</title>
     <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms ... Tivim IPTV</desc>
   </programme>
@@ -67,7 +67,7 @@
   <channel id="9">
     <display-name>Amasia TV</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="9">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="9">
     <title>Amasia TV</title>
     <desc>AMASIA ist ein FAST-Channel, der sich auf Thriller aus dem ostasiatischen Raum spezialisiert... Tivim IPTV</desc>
   </programme>
@@ -75,7 +75,7 @@
   <channel id="10">
     <display-name>Tivim Cinema</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="10">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="10">
     <title>Tivim Cinema</title>
     <desc>Ein Mix aus Blockbustern, für jeden ist etwas dabei ... Tivim IPTV</desc>
   </programme>
@@ -83,7 +83,7 @@
   <channel id="11">
     <display-name>24/7 Marvel TV</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="11">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="11">
     <title>24/7 Marvel TV</title>
     <desc>Das Marvel Cinematic Universe (MCU) ist eine der erfolgreichsten und umfangreichsten Filmreihen der Geschichte. Es basiert auf den ikonischen Marvel-Comics, die seit den 1960er Jahren zahlreiche Helden und Schurken hervorgebracht haben. ... Tivim IPTV</desc>
   </programme>
@@ -91,7 +91,7 @@
   <channel id="12">
     <display-name>24/7 Harry Potter</display-name>
   </channel>
-  <programme start="20250111T000000Z" stop="20290101T000000Z" channel="12">
+  <programme start="20250111T000000Z" stop="20251231T235959Z" channel="12">
     <title>24/7 Harry Potter</title>
     <desc>Die Harry-Potter-Filmreihe besteht aus den Verfilmungen der Harry-Potter-Romane der britischen Autorin Joanne K. Rowling durch Warner Bros. ... Tivim IPTV</desc>
   </programme>

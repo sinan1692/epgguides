@@ -68,12 +68,12 @@
     <display-name>Amasia TV</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="9">
-    <title>Amasia TV</title>
+    <title>Asiatische Filme</title>
     <desc>AMASIA ist ein FAST-Channel, der sich auf Thriller aus dem ostasiatischen Raum spezialisiert... Tivim IPTV</desc>
   </programme>
 
   <channel id="10">
-    <display-name>Tivim Cinema</display-name>
+    <display-name>Blockbuster Filme</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="10">
     <title>Tivim Cinema</title>
@@ -84,7 +84,7 @@
     <display-name>24/7 Marvel Filme</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="11">
-    <title>24/7 Marvel TV</title>
+    <title>24/7 Marvel Filme</title>
     <desc>Das Marvel Cinematic Universe (MCU) ist eine der erfolgreichsten und umfangreichsten Filmreihen der Geschichte. Es basiert auf den ikonischen Marvel-Comics, die seit den 1960er Jahren zahlreiche Helden und Schurken hervorgebracht haben. ... Tivim IPTV</desc>
   </programme>
 

@@ -73,10 +73,10 @@
   </programme>
 
   <channel id="10">
-    <display-name>Blockbuster Filme</display-name>
+    <display-name>Tivim Cinema</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="10">
-    <title>Tivim Cinema</title>
+    <title>Blockbuster Filme</title>
     <desc>Ein Mix aus Blockbustern, für jeden ist etwas dabei ... Tivim IPTV</desc>
   </programme>
 
@@ -84,7 +84,7 @@
     <display-name>24/7 Marvel Filme</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="11">
-    <title>24/7 Marvel Filme</title>
+    <title>Marvel Filme</title>
     <desc>Das Marvel Cinematic Universe (MCU) ist eine der erfolgreichsten und umfangreichsten Filmreihen der Geschichte. Es basiert auf den ikonischen Marvel-Comics, die seit den 1960er Jahren zahlreiche Helden und Schurken hervorgebracht haben. ... Tivim IPTV</desc>
   </programme>
 
@@ -92,7 +92,7 @@
     <display-name>24/7 Harry Potter</display-name>
   </channel>
   <programme start="20250112000000 +0000" stop="20251231235959 +0000" channel="12">
-    <title>24/7 Harry Potter Filme</title>
+    <title>Harry Potter Filme</title>
     <desc>Die Harry-Potter-Filmreihe besteht aus den Verfilmungen der Harry-Potter-Romane der britischen Autorin Joanne K. Rowling durch Warner Bros. ... Tivim IPTV</desc>
   </programme>
 </tv>

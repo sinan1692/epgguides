@@ -108,7 +108,23 @@
     <display-name>Disney+</display-name>
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="13">
-    <title>Disney+ Filme</title>
+    <title>Disney+</title>
     <desc>Auf Disney+ findest du für jede Stimmung genau das Richtige. Mit unbegrenzter Unterhaltung von Disney, Pixar, Marvel, Star Wars. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
+  </programme>
+
+    <channel id="14">
+     <display-name>Weihnachtsfilme</display-name>
+  </channel>
+  <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="14">
+    <title>Weihnachtsfilme</title>
+    <desc>Die besten Weihnachtsfilme für die ganze Familie. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
+  </programme>
+
+   <channel id="15">
+     <display-name>Netflix-Originals</display-name>
+  </channel>
+  <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="15">
+    <title>Weihnachtsfilme</title>
+    <desc>Die besten Netflix-Originals-Filme. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
 </tv>

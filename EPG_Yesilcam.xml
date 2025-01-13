@@ -103,4 +103,13 @@
     <title>Harry Potter Filme</title>
     <desc>Die Harry-Potter-Filmreihe besteht aus den Verfilmungen der Harry-Potter-Romane der britischen Autorin Joanne K. Rowling durch Warner Bros. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
+  
+  <channel id="13">
+    <display-name>Disney+</display-name>
+  </channel>
+  <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="12">
+    <title>Disney+ Filme</title>
+    <desc>Auf Disney+ findest du für jede Stimmung genau das Richtige. Mit unbegrenzter Unterhaltung von Disney, Pixar, Marvel, Star Wars. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
+  </programme>
+</tv>
 </tv>

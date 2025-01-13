@@ -44,7 +44,7 @@
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="6">
     <title>DAZN Event</title>
-    <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms. Tivim IPTV</desc>
+    <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
 
   <channel id="7">
@@ -52,7 +52,7 @@
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="7">
     <title>RTL+ Sport Event</title>
-    <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms. Tivim IPTV.</desc>
+    <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
 
   <channel id="8">
@@ -60,15 +60,15 @@
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="8">
     <title>Amazon Prime C.League</title>
-    <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms. Tivim IPTV.</desc>
+    <desc>Sendepause... Der Sender startet 10 Minuten vor Beginn des Programms. „Tivim IPTV – Dein perfekter Streaming-Partner.“.</desc>
   </programme>
 
   <channel id="9">
     <display-name>Amasia TV</display-name>
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="9">
-    <title>Asiatische Filme</title>
-    <desc>AMASIA ist ein FAST-Channel, der sich auf Thriller aus dem ostasiatischen Raum spezialisiert. Tivim IPTV</desc>
+    <title>Kung-Fu-Klassiker und asiatische Action</title>
+    <desc>Erlebe unvergessliche Kampfkunst und Action mit den besten Kung-Fu-Filmen aller Zeiten auf AMASIA TV. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
 
   <channel id="10">
@@ -76,7 +76,7 @@
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="10">
     <title>Blockbuster Filme</title>
-    <desc>Ein Mix aus Blockbustern, für jeden ist etwas dabei. Tivim IPTV</desc>
+    <desc>Von Action bis Drama – ein vielfältiger Mix, der jeden begeistert. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
 
   <channel id="11">
@@ -84,7 +84,7 @@
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="11">
     <title>Marvel Filme</title>
-    <desc>Das Marvel Cinematic Universe (MCU) ist eine der erfolgreichsten und umfangreichsten Filmreihen der Geschichte. Es basiert auf den ikonischen Marvel-Comics, die seit den 1960er Jahren zahlreiche Helden und Schurken hervorgebracht haben. Tivim IPTV</desc>
+    <desc>Das Marvel Cinematic Universe (MCU) ist eine der erfolgreichsten und umfangreichsten Filmreihen der Geschichte. Es basiert auf den ikonischen Marvel-Comics, die seit den 1960er Jahren zahlreiche Helden und Schurken hervorgebracht haben. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
 
   <channel id="12">
@@ -92,6 +92,6 @@
   </channel>
   <programme start="20250113105110 +0000" stop="20250831235959 +0000" channel="12">
     <title>Harry Potter Filme</title>
-    <desc>Die Harry-Potter-Filmreihe besteht aus den Verfilmungen der Harry-Potter-Romane der britischen Autorin Joanne K. Rowling durch Warner Bros. Tivim IPTV</desc>
+    <desc>Die Harry-Potter-Filmreihe besteht aus den Verfilmungen der Harry-Potter-Romane der britischen Autorin Joanne K. Rowling durch Warner Bros. „Tivim IPTV – Dein perfekter Streaming-Partner.“</desc>
   </programme>
 </tv>
